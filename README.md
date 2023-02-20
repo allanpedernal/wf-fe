@@ -8,9 +8,7 @@ During the development of this dashboard, we have used many existing resources f
 - [TypedJS](https://mattboldt.com/demos/typed-js/) - A JavaScript Typing Animation Library.
 - [Vue Clipboard 3](https://github.com/JamieCurnow/vue-clipboard3) - Easily copy to clipboard in Vue 3.
 - [Vue Count To](http://panjiachen.github.io/countTo/demo/) - A dependency-free, lightweight vue component for count up.
-- [Axios](https://www.npmjs.com/package/axios).
-- [Auth0 Vue](https://www.npmjs.com/package/@auth0/auth0-vue).
-- [Vue Axios](https://www.npmjs.com/package/vue-axios).
+- [Auth0](https://auth0.com/docs/quickstart/spa/vuejs/01-login).
 
 ## Table of Contents
 
